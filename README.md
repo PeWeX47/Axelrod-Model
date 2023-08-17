@@ -3,9 +3,7 @@
 Welcome to the repository for the implementation of Axelrod's cultural diffusion model! This project contains the source code and tools necessary to simulate the process of cultural diffusion in a society using the Axelrod model. The Axelrod model is a popular mathematical method used in social sciences to study the interaction among agents and the spread of culture.
 <br>
 <br>
-<div style="text-align: center;">
-    <img src="gif.gif">
-</div>
+![Alt text](gif.gif)
 <br>
 
 ## About the Axelrod Model
