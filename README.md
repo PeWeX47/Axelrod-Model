@@ -35,7 +35,7 @@ git clone git@github.com:PeWeX47/Axelrod-Model.git
 Navigate to the repository directory:
 
 ```
-cd sudoku-solver
+cd Axelrod-Model
 ```
 
 **2. Running the Simulation:** The repository includes two way to run the simulation, from *simulation.ipynb* or *main.py*. Choose either of them to run the simulation based on your preference.
